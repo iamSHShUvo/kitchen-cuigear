@@ -2,8 +2,38 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
-.span color{
+.span-color{
     color: chocolate;
+}
+.h1kitchen{
+    color: green ;
+}
+.h1dash{
+    color: orangered;
+}
+.h1cuigear{
+    color: orangered;
+}
+.order-now{
+    text-decoration: none;
+background-color: orangered;
+background-image:linear-gradient(to left, #ff6600 0%, #66ff99 103%);
+font-weight: 700;
+    border-radius: 20px;
+    color: black;
+    margin: 5%;
+    padding: 10px 20px;
+}
+.section1{
+    display: flex;
+    margin-bottom: 0;
+}
+.half-width{
+    width:45%;
+   
+    padding-bottom: 3%;
+    padding-left: 2%;
+
 }
