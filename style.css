@@ -32,12 +32,27 @@ section{
     margin-bottom: 0;
 }
 .half-width{
-    width:45%;
-    padding-bottom: 3%;
-    padding-left: 2%;
+    width:50%;
+    padding-right: 5%;
+    padding-left: 5%;
+   
+
+}
+.half-width img{
+    width: 70%;
+    padding-left: 5%;
+    
 
 }
 .section1{
-    background-image:url(Frame\ 58.jpg);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
+    background-position: right;
+
+}
+.section2{
+    background-image: url(Frame\ 59.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position-x: left;
 }
